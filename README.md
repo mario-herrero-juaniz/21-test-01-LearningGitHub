@@ -1,6 +1,6 @@
-## Me llamo Mario Herrero
+# Me llamo Mario Herrero
 
-# Me gusta hacer spam de mi trabajo
+## Me gusta hacer spam de mi trabajo
 
 mira, como esto:
 
